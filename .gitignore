@@ -1,31 +1,12 @@
-# Python cache
 __pycache__/
 *.pyc
 *.pyo
-*.pyi
-
-# User data
 targets.txt
 proxies.txt
-shein_cookies.txt
-
-# Virtual environment
+user_agents.txt
 venv/
 env/
-.venv/
-.env/
-
-# OS files
 .DS_Store
 Thumbs.db
-*.swp
-*.swo
-
-# IDE
 .vscode/
 .idea/
-*.sublime-*
-
-# Logs
-*.log
-output/
